@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zanzibar2", "Zanzibar2\Zanzibar2.csproj", "{FF45C1DE-5685-4F9F-B5EC-9D01C9D83706}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{48580726-5AF0-446B-9731-11CB91B77435}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF45C1DE-5685-4F9F-B5EC-9D01C9D83706}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FF45C1DE-5685-4F9F-B5EC-9D01C9D83706}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FF45C1DE-5685-4F9F-B5EC-9D01C9D83706}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FF45C1DE-5685-4F9F-B5EC-9D01C9D83706}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBEF5510-926E-4220-96EB-ACE366408A8C}
+	EndGlobalSection
+EndGlobal

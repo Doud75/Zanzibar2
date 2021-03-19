@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FF45C1DE-5685-4F9F-B5EC-9D01C9D83706}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.txt">
+    <Files>
+      <File FileName="Zanzibar2/Program.cs" Line="100" Column="7" />
+      <File FileName="README.txt" Line="5" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zanzibar2" expanded="True" selected="True">
+            <Node name="Zanzibar2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Zanzibar2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/adrienquimbre/Desktop/Zanzibar2/Zanzibar2/bin/Debug/Zanzibar2.exe
+/Users/adrienquimbre/Desktop/Zanzibar2/Zanzibar2/bin/Debug/Zanzibar2.pdb
+/Users/adrienquimbre/Desktop/Zanzibar2/Zanzibar2/obj/Debug/Zanzibar2.csprojAssemblyReference.cache
+/Users/adrienquimbre/Desktop/Zanzibar2/Zanzibar2/obj/Debug/Zanzibar2.csproj.CoreCompileInputs.cache
+/Users/adrienquimbre/Desktop/Zanzibar2/Zanzibar2/obj/Debug/Zanzibar2.exe
+/Users/adrienquimbre/Desktop/Zanzibar2/Zanzibar2/obj/Debug/Zanzibar2.pdb
